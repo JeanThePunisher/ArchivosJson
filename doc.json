@@ -1,0 +1,20 @@
+[{
+    "rol": "administrador",
+    "usuario": "Jeandavid",
+    "contraseña": "ligadequito"
+  },
+  {
+    "rol": "usuario",
+    "usuario": "Jose",
+    "contraseña": "12345"
+  },
+  {
+    "rol": "usuario",
+    "usuario": "Pedro",
+    "contraseña": "54321"
+  },
+  {
+    "rol": "usuario",
+    "usuario": "Moreno",
+    "contraseña": "jeanda"
+  }]
