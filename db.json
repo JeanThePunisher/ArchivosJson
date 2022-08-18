@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": 1,
     "rol": "administrador",
     "usuario": "Jeandavid",
@@ -23,4 +22,3 @@
     "usuario": "Moreno",
     "contraseña": "jeanda"
   }
-   ]
