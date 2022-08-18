@@ -4,25 +4,25 @@
     "id": 1,
     "rol": "administrador",
     "usuario": "Jeandavid",
-    "contraseña": "ligadequito"
+    "contraseña": "ligadequito",
   },
   {
     "id": 2,
     "rol": "usuario",
     "usuario": "Jose",
-    "contraseña": "12345"
+    "contraseña": "12345",
   },
   {
     "id": 3,
     "rol": "profesor",
     "usuario": "Pedro",
-    "contraseña": "54321"
+    "contraseña": "54321",
   },
   {
     "id": 4,
     "rol": "empleado",
     "usuario": "Moreno",
-    "contraseña": "jeanda"
+    "contraseña": "jeanda",
   }
    ]
  }
